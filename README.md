@@ -27,6 +27,6 @@ Do not use any Ruby data structures in your implementation. Instead, pick one of
  * ArrayList
  * LinkedList
 
-##Resources
+## Resources
 
 * [Wikipedia: Queue](http://en.wikipedia.org/wiki/Queue_%28abstract_data_type%29)
