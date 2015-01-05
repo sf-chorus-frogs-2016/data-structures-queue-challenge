@@ -15,7 +15,7 @@ Queues are the natural complement to Stacks. Some algorithms work with Queues or
 Write and test a `Queue` class that conforms to the following interface:
 
 ### Interface
-- `Queue#new(suggested_capacity)`: Instantiate a new `Queue` with an optional initial capacity
+- `Queue#new()`: Instantiate a new `Queue`
 - `Queue#enqueue(element)`: Add a new element to the queue
 - `Queue#dequeue`: Remove and return the first element in the queue
 - `Queue#peel`: Return (but do not remove) the first element in the queue
